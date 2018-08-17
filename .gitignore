@@ -3,3 +3,8 @@
 ################################################################################
 
 /MedKnightsWeb/MedKnightsWeb/bin
+/MedKnightsWeb/.vs
+/MedKnightsWeb/MedKnightsWeb/obj/Debug
+/MedKnightsWeb/MedKnightsWeb.Tests/bin/Debug
+/MedKnightsWeb/MedKnightsWeb.Tests/obj/Debug
+/MedKnightsWeb/packages
